@@ -14,7 +14,7 @@ For example:
 
 One Hot encoding:
 
-<img src="">
+<img src="https://github.com/gohilriddhi21/embeddings/blob/main/images/one_hot_encoding.png">
 
 
 Word Embedding:
