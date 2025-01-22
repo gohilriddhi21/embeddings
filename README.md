@@ -12,15 +12,18 @@ Embeddings are a way of representing complex unstructured data (like images, tex
 
 For example:
 
-One Hot encoding:
+#### One Hot encoding:
 
 <img src="https://github.com/gohilriddhi21/embeddings/blob/main/images/one_hot_encoding.png">
 
+As you can see, one-hot encoding doesn’t provide any semantic relationship between the words. For example, “cat” and “dog” are treated as entirely unrelated.
 
-Word Embedding:
 
-<img src>
+#### Word Embedding:
 
+<img src="https://github.com/gohilriddhi21/embeddings/blob/main/images/embeddings.png">
+
+In this case, "cat" and "dog" will have similar embeddings because they are related. Their embeddings will reflect this semantic relationship. The system can understand that they are related, unlike one-hot encoding, where they are treated as completely distinct.
 
 
 ## Use Case:
